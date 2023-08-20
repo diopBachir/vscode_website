@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "thesisDataSource.html",
+    "href": "thesisDataSource.html",
+    "title": "Source et Description",
+    "section": "",
+    "text": "Source des données utilisées dans cette thèse"
+  },
+  {
+    "objectID": "regional_ffa.html",
+    "href": "regional_ffa.html",
+    "title": "Analyse fréquentielle régionale",
+    "section": "",
+    "text": "Régional FFA"
+  },
+  {
+    "objectID": "localFFAusedModels.html",
+    "href": "localFFAusedModels.html",
+    "title": "Modèles fréquentiels",
+    "section": "",
+    "text": "Quels sont les modèles fréquentiels utilisés"
+  },
+  {
+    "objectID": "localFFAintroduction.html",
+    "href": "localFFAintroduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Parlons de la FFA locale"
+  },
+  {
+    "objectID": "localFFAevaluationCritera.html",
+    "href": "localFFAevaluationCritera.html",
+    "title": "Critères d’évaluation",
+    "section": "",
+    "text": "Critères utilisés pour évaluer les modèles fréquentiels"
+  },
+  {
+    "objectID": "localFFA.html",
+    "href": "localFFA.html",
+    "title": "Analyse Fréquentielle Locale",
+    "section": "",
+    "text": "Analyse fréquentielle locale"
+  },
+  {
+    "objectID": "dataInventory.html",
+    "href": "dataInventory.html",
+    "title": "Inventaire de données",
+    "section": "",
+    "text": "Inventaire des données utilisées"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "bassinSelection.html",
+    "href": "bassinSelection.html",
+    "title": "Critères de sélection",
+    "section": "",
+    "text": "Comment les bassins ont été selectionnées"
+  },
+  {
+    "objectID": "introductionRFA.html",
+    "href": "introductionRFA.html",
+    "title": "Analyse fréquentielle régionale",
+    "section": "",
+    "text": "A venir !!!!!!!!!!!!!!!!!"
+  },
+  {
+    "objectID": "localFFAetapes.html",
+    "href": "localFFAetapes.html",
+    "title": "Etapes",
+    "section": "",
+    "text": "Etapes de l’analyse fréquentielle locale"
+  },
+  {
+    "objectID": "localFFAhypothesisTests.html",
+    "href": "localFFAhypothesisTests.html",
+    "title": "Hypothèses",
+    "section": "",
+    "text": "Quelles sont les hypothèses de l’analyse fréquentielle locale"
+  },
+  {
+    "objectID": "localFFAnon_stationary.html",
+    "href": "localFFAnon_stationary.html",
+    "title": "Contexte non-stationnaire",
+    "section": "",
+    "text": "Analyse fréquentielle en contexte non-strationnaire"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Références",
+    "section": "",
+    "text": "Liste des références"
+  },
+  {
+    "objectID": "studyArea.html",
+    "href": "studyArea.html",
+    "title": "Zone d’étude",
+    "section": "",
+    "text": "Base ADHI en Afrique de l’ouest"
+  }
+]
