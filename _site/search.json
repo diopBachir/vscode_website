@@ -37,7 +37,7 @@
   {
     "objectID": "localFFAetapes.html",
     "href": "localFFAetapes.html",
-    "title": "Etapes de L’analyse Fréquentielle Locale",
+    "title": "Etapes",
     "section": "",
     "text": "Etapes de l’analyse fréquentielle locale"
   },
@@ -54,5 +54,61 @@
     "title": "Analyse fréquentielle régionale",
     "section": "",
     "text": "A venir !!!!!!!!!!!!!!!!!"
+  },
+  {
+    "objectID": "studyArea.html",
+    "href": "studyArea.html",
+    "title": "Zone d’étude",
+    "section": "",
+    "text": "Base ADHI en Afrique de l’ouest"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Références",
+    "section": "",
+    "text": "Liste des références"
+  },
+  {
+    "objectID": "localFFAnon_stationary.html",
+    "href": "localFFAnon_stationary.html",
+    "title": "Contexte non-stationnaire",
+    "section": "",
+    "text": "Analyse fréquentielle en contexte non-strationnaire"
+  },
+  {
+    "objectID": "bassinSelection.html",
+    "href": "bassinSelection.html",
+    "title": "Critères de sélection",
+    "section": "",
+    "text": "Comment les bassins ont été selectionnées"
+  },
+  {
+    "objectID": "dataInventory.html",
+    "href": "dataInventory.html",
+    "title": "Inventaire de données",
+    "section": "",
+    "text": "Inventaire des données utilisées"
+  },
+  {
+    "objectID": "localFFAevaluationCritera.html",
+    "href": "localFFAevaluationCritera.html",
+    "title": "Critères d’évaluation",
+    "section": "",
+    "text": "Critères utilisés pour évaluer les modèles fréquentiels"
+  },
+  {
+    "objectID": "localFFAusedModels.html",
+    "href": "localFFAusedModels.html",
+    "title": "Modèles fréquentiels",
+    "section": "",
+    "text": "Quels sont les modèles fréquentiels utilisés"
+  },
+  {
+    "objectID": "regional_ffa.html",
+    "href": "regional_ffa.html",
+    "title": "Analyse fréquentielle régionale",
+    "section": "",
+    "text": "Régional FFA"
   }
 ]
