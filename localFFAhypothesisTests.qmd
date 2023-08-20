@@ -1,0 +1,6 @@
+---
+title: "Hypothèses"
+format: html
+---
+
+Quelles sont les hypothèses de l'analyse fréquentielle locale

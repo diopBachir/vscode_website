@@ -1,0 +1,6 @@
+---
+title: "Critères d'évaluation"
+format: html
+---
+
+Critères utilisés pour évaluer les modèles fréquentiels

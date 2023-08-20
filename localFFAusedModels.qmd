@@ -1,0 +1,6 @@
+---
+title: "Modèles fréquentiels"
+format: html
+---
+
+Quels sont les modèles fréquentiels utilisés

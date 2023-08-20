@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "2f8f20d7"
+  },
+  "about.qmd": {
+    "about.html": "52b9ee17"
+  },
+  "thesisDataSource.qmd": {
+    "thesisDataSource.html": "dbfb6ccf"
+  },
+  "localFFA.qmd": {
+    "localFFA.html": "723f7d81"
+  },
+  "localFFAintroduction.qmd": {
+    "localFFAintroduction.html": "85d563d0"
+  },
+  "localFFAetapes.qmd": {
+    "localFFAetapes.html": "65f84f8f"
+  },
+  "localFFAhypothesisTests.qmd": {
+    "localFFAhypothesisTests.html": "974b50fd"
+  },
+  "introductionRFA.qmd": {
+    "introductionRFA.html": "6319e5d5"
+  }
+}

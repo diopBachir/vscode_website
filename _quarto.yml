@@ -1,0 +1,59 @@
+project:
+  type: website
+
+website:
+  title: "THESE SERIGNE BASSIROU DIOP"
+  favicon: "_site/site_libs/images/carte_de_localisation_base_adhi.jpg"
+  navbar:                                                            # text alternatif logo
+    background: "dark"                                                         # couleur de fond
+    foreground: "white"                                                       # couleur du texte
+    search: false                                                                # barre de recherche
+    right:
+      - text: "Accueil"
+        file: index.qmd
+      - text: "Données"
+        file: thesisDataSource.qmd
+      - text: "Local FFA"
+        file: localFFA.qmd
+      - text: "Régionalisation"
+        file: regional_ffa.qmd
+      - text: "References"
+        file: references.qmd
+      - icon: whatsapp
+        href: https://wa.me/221770129624
+  sidebar:
+    logo: "_site/site_libs/images/carte_de_localisation_base_adhi.jpg"
+    logo-alt: "" 
+    contents:
+      - section: "Régionalisation des crues en Afrique de l'ouest"
+        contents: 
+          - index.qmd
+      - section: "Données"
+        contents:
+            - thesisDataSource.qmd
+            - studyArea.qmd
+            - bassinSelection.qmd
+            - dataInventory.qmd
+      - section: "Analyse fréquentielle locale"
+        contents:
+          - localFFAintroduction.qmd
+          - localFFAetapes.qmd
+          - localFFAhypothesisTests.qmd
+          - localFFAusedModels.qmd
+          - localFFAevaluationCritera.qmd
+          - localFFAnon_stationary.qmd
+      - section: "Régionalisation"
+        contents: 
+          - introductionRFA.qmd
+      - section: "Références"
+        contents: 
+          - references.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
